@@ -107,6 +107,10 @@ velero schedule get
 
 ## Restore from Backup
 ```
+kubectl delete namespace grafana-example
+kubectl get deployments --namespace=grafana-example
+kubectl get services --namespace=grafana-example
+kubectl get namespace/grafana-example
 velero restore create --from-backup grafana-backup
 velero restore get
 ```
