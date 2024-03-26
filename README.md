@@ -3,6 +3,7 @@
 * [Velero on GCP GKE Cluster] (https://gist.github.com/rcompos/adc4f0dd00e37df023fd78c5db7965ef)
 * [Velero plugin for GCP] (https://github.com/vmware-tanzu/velero-plugin-for-gcp#setup)
 * [gke-casa] (https://github.com/yongkanghe/gke-casa/tree/main)
+* [Deploy Grafana on Kubernetes] (https://grafana.com/docs/grafana/latest/setup-grafana/installation/kubernetes/)
 
 ## Installation
 ```
