@@ -1,8 +1,8 @@
 # Velero installation on GCP
 ## Links for additional information about velero
-https://gist.github.com/rcompos/adc4f0dd00e37df023fd78c5db7965ef
-https://github.com/vmware-tanzu/velero-plugin-for-gcp#setup
-https://github.com/yongkanghe/gke-casa/tree/main
+-https://gist.github.com/rcompos/adc4f0dd00e37df023fd78c5db7965ef
+-https://github.com/vmware-tanzu/velero-plugin-for-gcp#setup
+-https://github.com/yongkanghe/gke-casa/tree/main
 
 ## Installation
 ```
